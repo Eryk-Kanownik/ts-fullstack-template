@@ -2,7 +2,7 @@
 
 ### Stack
 
-1. (&#x1F34E;) Node.js
+1. <span style="color:green;">Node.js</span>
 2. Typescript (Both frontend and backend)
 3. Database is up to you
 4. React
