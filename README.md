@@ -2,12 +2,12 @@
 
 ### Stack
 
-1. <span style="color:green;">Node.js</span>
-2. Typescript (Both frontend and backend)
-3. Database is up to you
-4. React
-5. Redux
-6. SCSS
+1. **Green** Node.js
+2. **Blue** Typescript (Both frontend and backend)
+3. **Gray** Database is up to you
+4. **LightBlue** React
+5. **Purple** Redux
+6. **Pink** SCSS
 
 ### Commands to run
 
