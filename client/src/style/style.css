@@ -1,5 +1,11 @@
 .main {
-  color: red;
+  background: linear-gradient(to bottom, black, rgb(44, 44, 44));
+  height: 100vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 * {
